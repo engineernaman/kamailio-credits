@@ -28,7 +28,7 @@ Please make the pull request to update the list of credits alphabetically.
 | Sandro Gauci     |                  | [Enable Security](https://www.enablesecurity.com/)     | 2026  | Security      | Security analysis |
 | Tristan Madani   | TristanInSec     | [Talence Security](https://talencesecurity.com)        | 2026  | Security      | Security analysis |
 | Wei              |                  | [Xidian University](https://www.xidian.edu.cn/)        | 2026  | Security      | Security analysis |
-
+| Yuanhao Li       |    hackeryounow  | [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)  | 2026  | Security   | Security analysis |
 ## Contact
 
 For questions, use the `sr-dev [at] lists.kamailio.org` mailing list.
