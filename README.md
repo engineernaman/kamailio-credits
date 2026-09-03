@@ -28,6 +28,7 @@ Please make the pull request to update the list of credits alphabetically.
 | Nikolas Null     | n0k0 - N0K0      | [mnemonic](https://www.mnemonic.io/)                   | 2026  | Security      | Security analysis |
 | Olivier Laflamme    | Boschko          | Pwno         | 2026        | Security        | Vulnerability research and fuzzing |
 | Sandro Gauci     |                  | [Enable Security](https://www.enablesecurity.com/)     | 2026  | Security      | Security analysis |
+| Soumy Naman      | engineernaman    | Pert Telecom Solutions Pvt. Ltd. (PertSol)             | 2026  | Security      | Security analysis and vulnerability research |
 | Tristan Madani   | TristanInSec     | [Talence Security](https://talencesecurity.com)        | 2026  | Security      | Security analysis |
 | Wei              |                  | [Xidian University](https://www.xidian.edu.cn/)        | 2026  | Security      | Security analysis |
 | Yuanhao Li       |    hackeryounow  | [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)  | 2026  | Security   | Security analysis |
